@@ -1,18 +1,5 @@
 new treasuretable "SECRET_SCROLLS"
-new subtable "1,1"
-object category "I_OBJ_SecretScrolls_Pouch_Cantrips",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_SecretScrolls_Pouch_Level1",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_SecretScrolls_Pouch_Level2",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_SecretScrolls_Pouch_Level3",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_SecretScrolls_Pouch_Level4",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_SecretScrolls_Pouch_Level5",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_SecretScrolls_Pouch_Level6",1,0,0,0,0,0,0,0
+CanMerge 1
 new subtable "1,1"
 object category "I_OBJ_SecretScrolls_GameScrolls_Pouch_Cantrips",1,0,0,0,0,0,0,0
 new subtable "1,1"
